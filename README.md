@@ -1,4 +1,4 @@
-This is our implementation of StackGAN as our baseline model for our 10707 project. We have relied heavily on the original code, which we cloned here and is available below. Note, this is public as our changes are limited at this point. Additional attempts will be made at our task.  
+This is our implementation of StackGAN as our baseline model. We have relied heavily on the original code, which we cloned here and is available below. Note, this is public as our changes are limited at this point. Additional attempts will be made at our task.  
 
 ____________________________________________________________________________________________________________________________________________________________
 # StackGAN-pytorch
