@@ -8,7 +8,6 @@ ________________________________________________________________________________
 
 - [StackGAN-v2-pytorch](https://github.com/hanzhanggit/StackGAN-v2)
 
-mentation. 
 
 <img src="examples/framework.jpg" width="850px" height="370px"/>
 
